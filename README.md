@@ -1,1 +1,1 @@
-# Jupter
+# Jupyter
